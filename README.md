@@ -1,2 +1,2 @@
 # React
-Created with CodeSandbox
+Notes keeping project
