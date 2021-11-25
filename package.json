@@ -5,15 +5,14 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
-    "@material-ui/core": "^4.11.4",
+    "@material-ui/core": "^4.12.3",
     "@material-ui/icons": "^4.11.2",
-    "react": "16.8.6",
-    "react-dom": "16.8.6",
-    "react-scripts": "3.2.0",
-    "superheroes": "^3.0.0"
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "^0.9.5"
   },
   "devDependencies": {
-    "typescript": "3.3.3"
+    "typescript": "^4.4.3"
   },
   "scripts": {
     "start": "react-scripts start",
